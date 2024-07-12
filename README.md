@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sukhbat</h1>
 <h3 align="center">want to be a passionate FULLSTACK developer from Mongolia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msukhbat&label=Profile%20views&color=0e75b6&style=flat" alt="msukhbat" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msukhbat" alt="msukhbat" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
+
+- 🤝 I’m looking for help with **i want to do internship**
 
 - 📫 How to reach me **sukhbatsuki4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/м. сүхбат" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="м. сүхбат" height="30" width="40" /></a>
 <a href="https://instagram.com/sukhbat_.q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukhbat_.q" height="30" width="40" /></a>
 </p>
 
@@ -20,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msukhbat&show_icons=true&locale=en&layout=compact" alt="msukhbat" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msukhbat&show_icons=true&locale=en" alt="msukhbat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msukhbat&" alt="msukhbat" /></p>****
