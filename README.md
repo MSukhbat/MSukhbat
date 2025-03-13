@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukhbat</h1>
-<h3 align="center">want to be a passionate FULLSTACK developer from Mongolia</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msukhbat" alt="msukhbat" /></a> </p>
 
